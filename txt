@@ -1,5 +1,6 @@
-www.visakorea.com
-powerservice.com
+www.speedtest.net
+time.is
+usa.visa.com
 104.26.6.222
 172.67.69.3
 172.67.70.23
